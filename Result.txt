@@ -1,0 +1,7 @@
+buckSimulation_0: mean:0.03, L: 0.01, RL: 0.02, C: 0.03, RC: 0.03, Rdson: 0.09, Rload1: 0.00, Rload2: 0.00, Rload3: 0.00, vIn: 0.00, vF: 0.09
+buckSimulation_1: mean:0.13, L: 0.00, RL: 0.23, C: 0.07, RC: 0.12, Rdson: 0.52, Rload1: 0.00, Rload2: 0.04, Rload3: 0.02, vIn: 0.01, vF: 0.25
+buckSimulation_2: mean:1.53, L: 0.35, RL: 0.54, C: 0.03, RC: 5.70, Rdson: 0.13, Rload1: 0.01, Rload2: 0.02, Rload3: 0.01, vIn: 0.17, vF: 8.37
+buckSimulation_3: mean:0.49, L: 0.13, RL: 0.30, C: 0.05, RC: 2.76, Rdson: 0.66, Rload1: 0.02, Rload2: 0.15, Rload3: 0.07, vIn: 0.01, vF: 0.79
+buckSimulation_4: mean:1.93, L: 0.21, RL: 1.16, C: 0.65, RC: 5.57, Rdson: 1.05, Rload1: 0.00, Rload2: 0.27, Rload3: 0.19, vIn: 0.22, vF: 9.93
+buckSimulation_5: mean:3.71, L: 0.84, RL: 6.42, C: 0.95, RC: 5.22, Rdson: 12.22, Rload1: 0.04, Rload2: 0.04, Rload3: 0.06, vIn: 0.26, vF: 11.01
+buckSimulation_6: mean:5.11, L: 1.03, RL: 13.22, C: 1.04, RC: 4.38, Rdson: 27.59, Rload1: 0.10, Rload2: 0.13, Rload3: 0.12, vIn: 0.16, vF: 3.30
