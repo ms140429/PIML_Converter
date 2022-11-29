@@ -5,7 +5,7 @@ This repository includes the code and data for the IEEE TPEL paper "***Parameter
 
 Physics-informed machine learning (PIML) has been emerging as a promising tool for applications with domain knowledge and physical models. To uncover its potentials in power electronics, this paper proposes a PIML-based parameter estimation method demonstrated by a case study of DC-DC Buck converter. A deep neural network and the dynamic models of the converter are seamlessly coupled. It overcomes the challenges related to training data, accuracy, and robustness which a typical data-driven approach has. This exemplary application envisions to provide a new perspective for tailoring existing machine learning tools for power electronics.
 
-![No alternative text description for this image](https://media-exp1.licdn.com/dms/image/C4E22AQHpPc0cwxPf1g/feedshare-shrink_2048_1536/0/1653207465611?e=1663200000&v=beta&t=uCLUOveqBDLxH3zie67fMki0voS0qy2RIYFy8X0G0B4)
+![No alternative text description for this image](C:\Users\shuai\AppData\Local\GitHubDesktop\app-3.0.5\1653207465611)
 
 #### Citation
 
