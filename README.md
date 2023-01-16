@@ -14,7 +14,7 @@ Physics-informed machine learning (PIML) has been emerging as a promising tool f
   title={Parameter Estimation of Power Electronic Converters with Physics-informed Machine Learning},
   author={Zhao, Shuai and Peng, Yingzhou and Zhang, Yi and Wang, Huai},
   journal={IEEE Trans. Power Electron.},
-  year={Early access, 2022}
+  year={Oct. 2022}
   doi={10.1109/TPEL.2022.3176468}
 }
 ```
