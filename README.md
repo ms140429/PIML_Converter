@@ -7,6 +7,10 @@ Physics-informed machine learning (PIML) has been emerging as a promising tool f
 
 ![](https://github.com/ms140429/PIML_Converter/blob/main/Docs/overall.png)
 
+#### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ms140429/PIML_Converter&type=Timeline)](https://star-history.com/#ms140429/PIML_Converter&Timeline)
+
 #### Citation
 
 ```
